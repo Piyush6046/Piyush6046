@@ -10,6 +10,8 @@
 
 [![GitHub](https://img.shields.io/badge/github-Piyush6046-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Piyush6046)
 &nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Piyush_Badode-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piyush-badode-058a9b291/)
+&nbsp;
 [![UniBuddy Live](https://img.shields.io/badge/🌐_UniBuddy-Live-10b981?style=for-the-badge)](https://unibuddy-frontend.netlify.app/home)
 &nbsp;
 [![Profile Views](https://komarev.com/ghpvc/?username=Piyush6046&style=for-the-badge&color=6e40c9&label=VIEWS)](https://github.com/Piyush6046)
@@ -22,13 +24,13 @@
 
 ```typescript
 const piyush = {
-  education  : "Information Technology · VJTI Mumbai",
-  building   : ["full-stack systems", "AI-powered apps", "intelligent matching"],
-  aiStack    : ["Gemini 2.0", "GPT-4o-mini", "Vapi.ai", "RAG-lite", "SHAP"],
+  education   : "Information Technology · VJTI Mumbai",
+  building    : ["full-stack systems", "AI-powered apps", "intelligent matching"],
+  aiStack     : ["Gemini 2.0", "GPT-4o-mini", "Vapi.ai", "RAG-lite", "SHAP"],
   backendStack: ["Node.js", "Express", "FastAPI", "MongoDB", "JWT"],
-  exploring  : ["agentic AI", "advanced RAG", "system design", "MLOps"],
-  languages  : ["TypeScript", "JavaScript", "Python", "C++", "SQL"],
-  currently  : "integrating AI into full-stack systems that solve real problems",
+  exploring   : ["agentic AI", "advanced RAG", "system design", "MLOps"],
+  languages   : ["TypeScript", "JavaScript", "Python", "C++", "SQL"],
+  currently   : "integrating AI into full-stack systems that solve real problems",
 };
 ```
 
@@ -62,11 +64,13 @@ const piyush = {
 <div align="center">
 
 [![Repo](https://img.shields.io/badge/GitHub-UniBuddy--Deployment-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/Piyush6046/UniBuddy-Deployment)
+&nbsp;
 [![Live](https://img.shields.io/badge/🌐_Live-unibuddy.netlify.app-10b981?style=flat-square)](https://unibuddy-frontend.netlify.app/home)
-[![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://reactjs.org)
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)](https://typescriptlang.org)
-[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)](https://mongodb.com)
-[![Node](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org)
+&nbsp;
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Node](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 
 </div>
 
@@ -131,11 +135,12 @@ flowchart TD
 <div align="center">
 
 [![Repo](https://img.shields.io/badge/GitHub-InstructoPlus-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/Piyush6046/InstructoPlus)
-[![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://reactjs.org)
-[![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=google&logoColor=white)](https://ai.google.dev)
-[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)](https://mongodb.com)
-[![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=flat-square&logo=razorpay&logoColor=3395FF)](https://razorpay.com)
-[![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)](https://vercel.com)
+&nbsp;
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=flat-square&logo=razorpay&logoColor=3395FF)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 </div>
 
@@ -212,9 +217,10 @@ Course progress uses a compound uniqueness constraint on `(userId, courseId)` �
 <div align="center">
 
 [![Repo](https://img.shields.io/badge/GitHub-TeleRetain-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/Piyush6046/TeleRetain)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
-[![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)](https://fastapi.tiangolo.com)
-[![Node](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org)
+&nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
+![Node](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square)
 ![SHAP](https://img.shields.io/badge/SHAP-Explainability-6e40c9?style=flat-square)
 
@@ -273,10 +279,11 @@ The ML service returns a SHAP-based explanation alongside each prediction — so
 <div align="center">
 
 [![Repo](https://img.shields.io/badge/GitHub-tradeplus--ai-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/Piyush6046/tradeplus-ai)
-[![Hackathon](https://img.shields.io/badge/🏆_Hackathon_Project-6e40c9?style=flat-square)](https://github.com/Piyush6046/tradeplus-ai)
-[![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://reactjs.org)
-[![Gemini](https://img.shields.io/badge/Gemini_2.0_Flash-4285F4?style=flat-square&logo=google&logoColor=white)](https://ai.google.dev)
-[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)](https://mongodb.com)
+&nbsp;
+![Hackathon](https://img.shields.io/badge/🏆_Hackathon-6e40c9?style=flat-square)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Gemini](https://img.shields.io/badge/Gemini_2.0_Flash-4285F4?style=flat-square&logo=google&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 
 </div>
 
@@ -348,9 +355,10 @@ flowchart TD
 <div align="center">
 
 [![Repo](https://img.shields.io/badge/GitHub-VAPT-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/Piyush6046/VAPT)
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)](https://typescriptlang.org)
+&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Security](https://img.shields.io/badge/Security-Scanning-ef4444?style=flat-square)
-![VAPT](https://img.shields.io/badge/VAPT-Full_Stack-6e40c9?style=flat-square)
+![VAPT](https://img.shields.io/badge/Full_Stack-VAPT-6e40c9?style=flat-square)
 
 </div>
 
@@ -451,31 +459,6 @@ This project represents a different engineering axis — thinking about systems 
 
 ---
 
-## How I Build
-
-```
-Understand the problem
-       │
-       ▼
-Design the simplest architecture that handles growth
-       │
-       ▼
-Build modularly — services stay independently understandable
-       │
-       ▼
-Think about failure cases alongside the happy path
-       │
-       ▼
-Security and auth are decisions, not afterthoughts
-       │
-       ▼
-Make AI outputs interpretable, not just impressive
-```
-
-What this looks like in practice: server-side payment HMAC verification (not client trust), compound DB indexes for correctness guarantees, async webhook processing for AI pipelines, SHAP explanations so ML predictions are business-actionable, a transparent Algorithm Lab so a matching engine isn't a black box.
-
----
-
 ## Currently Exploring
 
 <div align="center">
@@ -532,6 +515,24 @@ What this looks like in practice: server-side payment HMAC verification (not cli
 
 </div>
 
+<br/>
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Piyush6046&theme=react-dark&bg_color=0d1117&color=a78bfa&line=6e40c9&point=f59e0b&area=true&hide_border=true&area_color=6e40c9"/>
+
+</div>
+
+---
+
+## LeetCode
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/badodepiyush?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&radius=12&site=com"/>
+
+</div>
+
 ---
 
 ## Engineering Log
@@ -563,6 +564,12 @@ What this looks like in practice: server-side payment HMAC verification (not cli
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Piyush6046-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Piyush6046)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Piyush_Badode-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piyush-badode-058a9b291/)
+&nbsp;
+[![LeetCode](https://img.shields.io/badge/LeetCode-badodepiyush-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/badodepiyush/)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-badodepiyush@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:badodepiyush@gmail.com)
 &nbsp;
 [![UniBuddy](https://img.shields.io/badge/🌐_UniBuddy_Live-10b981?style=for-the-badge)](https://unibuddy-frontend.netlify.app/home)
 
