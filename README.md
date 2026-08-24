@@ -1,494 +1,593 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=190&section=header&text=PIYUSH%20BADODE&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20%E2%80%A2%20AI%2FML%20Builder%20%E2%80%A2%20System%20Designer&descAlignY=58&descColor=a78bfa&descSize=16"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a0a2e,70:2d1b69,100:6e40c9&height=180&section=header&text=Piyush%20Badode&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Information%20Technology%20%C2%B7%20VJTI%20Mumbai&descAlignY=58&descColor=a78bfa&descSize=17"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=900&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=760&height=40&lines=Building+products%2C+not+just+projects.;MERN+%7C+AI%2FML+%7C+RAG+%7C+Microservices;Turning+ideas+into+production-ready+systems.;VJTI+Mumbai+%7C+Information+Technology;Voice+AI+%7C+Vapi.ai+%7C+LLMs+%7C+Gemini" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=900&color=A78BFA&center=true&vCenter=true&width=750&lines=Building+full-stack+systems+and+AI+applications.;Voice+AI+%C2%B7+RAG+%C2%B7+LLM+workflows+%C2%B7+Matching+engines.;MERN+%C2%B7+Python+%C2%B7+TypeScript+%C2%B7+Gemini+%C2%B7+Vapi.ai;Engineering+at+VJTI+Mumbai+%C2%B7+Information+Technology." alt="Typing SVG"/>
 </a>
 
-<br/>
+<br/><br/>
 
-<a href="https://github.com/Piyush6046">
-  <img src="https://img.shields.io/badge/GitHub-Piyush6046-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
-</a>
+[![GitHub](https://img.shields.io/badge/github-Piyush6046-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Piyush6046)
 &nbsp;
-<a href="https://github.com/Piyush6046?tab=repositories">
-  <img src="https://img.shields.io/badge/Repositories-23-302b63?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+[![UniBuddy Live](https://img.shields.io/badge/🌐_UniBuddy-Live-10b981?style=for-the-badge)](https://unibuddy-frontend.netlify.app/home)
 &nbsp;
-<img src="https://komarev.com/ghpvc/?username=Piyush6046&style=for-the-badge&color=a78bfa&label=PROFILE+VIEWS"/>
+[![Profile Views](https://komarev.com/ghpvc/?username=Piyush6046&style=for-the-badge&color=6e40c9&label=VIEWS)](https://github.com/Piyush6046)
 
 </div>
 
-<br/>
+---
 
-## About
+## `$ whoami`
 
 ```typescript
-const piyush: Developer = {
-  name        : "Piyush Badode",
-  college     : "VJTI Mumbai — Information Technology",
-  role        : ["Full-Stack Engineer", "AI/ML Builder", "System Designer"],
-  languages   : ["C++", "TypeScript", "JavaScript", "Python", "SQL"],
-  currentStack: {
-    backend   : ["Node.js", "Express", "FastAPI", "Flask"],
-    frontend  : ["React", "Vite", "Redux Toolkit", "Tailwind CSS"],
-    database  : ["MongoDB", "MySQL"],
-    ai_ml     : ["Gemini", "OpenAI", "Vapi.ai", "XGBoost", "SHAP", "RAG"],
-    cloud     : ["Vercel", "Render", "MongoDB Atlas", "Cloudinary"],
-    payments  : ["Razorpay"],
-  },
-  mindset     : "Problem → Architecture → Data Flow → Scale",
-  philosophy  : "Build for the problem, not for the technology",
-  currentlyExploring: ["Advanced RAG", "Agentic AI", "Distributed Systems", "MLOps", "Redis"],
+const piyush = {
+  education  : "Information Technology · VJTI Mumbai",
+  building   : ["full-stack systems", "AI-powered apps", "intelligent matching"],
+  aiStack    : ["Gemini 2.0", "GPT-4o-mini", "Vapi.ai", "RAG-lite", "SHAP"],
+  backendStack: ["Node.js", "Express", "FastAPI", "MongoDB", "JWT"],
+  exploring  : ["agentic AI", "advanced RAG", "system design", "MLOps"],
+  languages  : ["TypeScript", "JavaScript", "Python", "C++", "SQL"],
+  currently  : "integrating AI into full-stack systems that solve real problems",
 };
 ```
 
-> *"I don't build pages. I build systems — where data flows, AI reasons, and scale is a design decision."*
-
-<br/>
-
-## Engineering Universe
-
-<div align="center">
-
-| Full-Stack | AI / ML | Systems | CS Fundamentals |
-|:---|:---|:---|:---|
-| React / Vite | Generative AI | Microservices | Data Structures |
-| Node.js / Express | RAG Pipelines | FastAPI / Flask | Algorithms & DP |
-| MongoDB / MySQL | LLM Applications | API Architecture | DBMS / SQL |
-| Redux Toolkit | Gemini / OpenAI | Database Design | OOP Principles |
-| JWT / Cookies | Vapi.ai (Voice AI) | Caching Strategies | OS / CN |
-| Razorpay | XGBoost / RF / LR | Webhooks | System Design |
-| Cloudinary | SHAP Explainability | Authentication | Problem Solving |
-| REST API Design | Scikit-learn | Deployment Pipelines | Software Engineering |
-
-</div>
-
-<br/>
-
-## Technology Arsenal
-
-**Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=cpp,python,javascript,typescript,html,css,sql&theme=dark" />
-
-**Backend**
-<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask&theme=dark" />
-
-**Frontend**
-<br/>
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind,redux&theme=dark" />
-
-**Database & Cloud**
-<br/>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,vercel,render,cloudflare&theme=dark" />
-
-**AI / ML**
-<br/>
-<img src="https://skillicons.dev/icons?i=python,pytorch,sklearn&theme=dark" />
-
-**Tools**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux&theme=dark" />
-
-<br/>
-
-## Featured Projects
+> Five projects. Five engineering dimensions. One trajectory: **software systems → intelligent systems.**
 
 ---
 
-### 01 — InstructoPlus | AI-Powered LMS
+## What I Build
 
-> **AI-Powered MERN Learning Management System** — full-stack LMS with AI-generated lecture notes, an AI tutor over ingested course content, YouTube-based lecture creation, and a complete payments pipeline.
+<div align="center">
 
-```mermaid
-flowchart LR
-    A["YouTube Playlist"] --> B["Lecture Creation"]
-    B --> C["Content Chunking"]
-    C --> D{"Gemini AI"}
-    D -->|Generate| E["AI Lecture Notes"]
-    D -->|Answer| F["RAG-lite Tutor"]
-    F --> G["Student Question"]
-    G --> H["Relevant Context"]
-    H --> D
+| 🖥️ Full-Stack Systems | 🤖 AI / GenAI Applications | ⚙️ Backend & Data |
+|:---:|:---:|:---:|
+| MERN applications | LLM-powered workflows | REST API design |
+| React + TypeScript UIs | Voice AI (Vapi.ai + WebRTC) | MongoDB · MySQL |
+| SaaS-style dashboards | Resume parsing pipelines | JWT · httpOnly cookies |
+| Authentication systems | RAG-lite & contextual AI | Payment verification |
+| Real-time features | AI interview & tutor systems | Microservice architecture |
+| Deployment pipelines | Custom scoring/ranking engines | Data modelling & indexing |
 
-    style A fill:#1e1b4b,color:#a78bfa,stroke:#a78bfa
-    style D fill:#7c3aed,color:#fff,stroke:#a78bfa
-    style E fill:#1e1b4b,color:#34d399,stroke:#34d399
-    style F fill:#1e1b4b,color:#f59e0b,stroke:#f59e0b
+</div>
+
+---
+
+## Featured Systems
+
+<div align="center">
+
+```
+         PIYUSH BADODE
+               │
+    ┌──────────┼──────────┐
+    │          │          │
+Full-Stack    AI/ML   Security
+    │          │
+    ├─UniBuddy ├─TradePlus AI
+    ├─InstructoPlus └─TeleRetain
+    └─VAPT
 ```
 
-**Payment flow:** `Client → Create Order → Backend → Razorpay → HMAC-SHA256 Signature Verification → Confirmed`
-
-**Data design:** compound index `(userId, courseId)` prevents duplicate course-progress records.
-
-| Layer | Technology |
-|---|---|
-| Frontend | React + Vite |
-| Backend | Node.js + Express |
-| Auth | JWT + httpOnly Cookies |
-| AI | Gemini + RAG-lite |
-| Queues | Redis + BullMQ (email) |
-| Payment | Razorpay + server-side verification |
-| Storage | MongoDB + Cloudinary |
-| Deploy | Vercel + Render + MongoDB Atlas + Docker |
-
-<div align="center">
-<img src="https://img.shields.io/badge/AI-Powered-7c3aed?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/RAG-Lite-0891b2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Payments-Razorpay-02042b?style=for-the-badge&logo=razorpay&logoColor=white"/>
-<img src="https://img.shields.io/badge/MERN-Stack-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 </div>
-
-**Repo:** [InstructoPlus](https://github.com/Piyush6046/InstructoPlus)
 
 ---
 
-### 02 — UniBuddy | AI Student Ecosystem
+### `01` · UniBuddy — AI-Powered Student Ecosystem
 
-> **AI-Powered Student Ecosystem** — a single platform for campus life, academics, career prep and student services, built around a voice-driven AI mock interviewer.
+<div align="center">
+
+[![Repo](https://img.shields.io/badge/GitHub-UniBuddy--Deployment-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/Piyush6046/UniBuddy-Deployment)
+[![Live](https://img.shields.io/badge/🌐_Live-unibuddy.netlify.app-10b981?style=flat-square)](https://unibuddy-frontend.netlify.app/home)
+[![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://reactjs.org)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)](https://typescriptlang.org)
+[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)](https://mongodb.com)
+[![Node](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org)
+
+</div>
+
+A campus platform where the real challenge was building an **end-to-end AI mock interview system** — resume parsing → voice conversation → LLM evaluation → scored feedback — all persisted and replayable.
+
+<details>
+<summary><b>⚡ Architecture — AI Mock Interview Pipeline</b></summary>
+
+<br/>
 
 ```mermaid
 flowchart TD
-    A["Resume PDF"] --> B["Resume Parser (Affinda)"]
-    B --> C["Candidate Profile"]
-    D["Job Description"] --> E{"AI Interview Engine"}
-    C --> E
-    E --> F["Voice Conversation (Vapi.ai / WebRTC)"]
-    F --> G["Interview Transcript"]
-    G --> H["AI Evaluation"]
-    H --> I["Technical Score"]
-    H --> J["Communication Score"]
-    H --> K["Overall Score"]
-    I --> L["Detailed Feedback Report"]
-    J --> L
-    K --> L
+    A([📄 Resume PDF]) --> B[Affinda Resume Parser]
+    B --> C[(Structured Candidate Profile)]
+    C --> D[AI Interview Configuration]
+    D --> E{🎙️ Vapi.ai}
+    E -->|LLM Brain| F[GPT-4o-mini]
+    E -->|Voice Channel| G[WebRTC Session]
+    G --> H[Interview Conversation]
+    H --> I[Post-call Webhook]
+    I --> J[Node.js Backend]
+    J --> K[(MongoDB)]
+    K --> L([📊 Scores · Feedback · History])
 
-    style E fill:#065f46,color:#34d399,stroke:#34d399
-    style F fill:#1e3a5f,color:#60a5fa,stroke:#60a5fa
-    style L fill:#1c1917,color:#f59e0b,stroke:#f59e0b
+    style A fill:#1a0a2e,color:#a78bfa,stroke:#6e40c9
+    style E fill:#0d2d1a,color:#34d399,stroke:#10b981
+    style F fill:#1a1a0d,color:#fbbf24,stroke:#f59e0b
+    style J fill:#1a0a0a,color:#f87171,stroke:#ef4444
+    style K fill:#0a1a2d,color:#60a5fa,stroke:#3b82f6
+    style L fill:#1a0a2e,color:#a78bfa,stroke:#6e40c9
 ```
 
-**Campus ecosystem modules**
+</details>
 
-| Module | Purpose |
+<details>
+<summary><b>🏫 Platform Modules</b></summary>
+
+<br/>
+
+| Module | Description |
 |---|---|
-| AI Mock Interviewer | Voice-to-voice placement prep with resume-aware questions |
-| Hostel Management | Campus accommodation |
-| Food Discovery | Canteen / food services |
-| Mentorship | Senior / alumni connections |
-| Marketplace | Student book exchange |
-| Pointer Helper | SGPA/CGPA tracking + target prediction |
-| Admin Panel | Platform management |
+| 🎤 AI Mock Interviewer | Voice-based · Resume-aware · LLM-evaluated |
+| 📊 Grade Analytics | SGPA / CGPA calculation and tracking |
+| 📚 Book Marketplace | Buy / sell campus books |
+| 💬 Community Chat | Campus-wide messaging |
+| 👤 Profile Management | Student identity and interview history |
+| 🔐 Admin Panel | Platform oversight and management |
 
-<div align="center">
-<img src="https://img.shields.io/badge/Voice_AI-Vapi.ai-8b5cf6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Resume_Parse-Affinda-0ea5e9?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/State-Redux_Toolkit-ff6edb?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI-OpenAI+Gemini-10b981?style=for-the-badge"/>
-</div>
+</details>
 
-**Repo:** [UniBuddy-Deployment](https://github.com/Piyush6046/UniBuddy-Deployment)
+**Engineering decisions worth noting:**
+- Webhook-driven post-call processing — interview is async, evaluation fires server-side after Vapi callback
+- Score persistence in MongoDB — not ephemeral, full interview history available
+- Resume parsing fully decoupled from interview session
+
+**Stack:** `React` · `TypeScript` · `Tailwind CSS` · `Redux Toolkit` · `Node.js` · `Express` · `MongoDB` · `Vapi.ai` · `GPT-4o-mini` · `Affinda` · `WebRTC`
 
 ---
 
-### 03 — TeleRetain | Churn Prediction SaaS
+### `02` · InstructoPlus — AI-Powered Learning Management System
 
-> **AI-Powered Telecom Customer Retention Platform** — full-stack SaaS predicting churn with an ML ensemble, and turning predictions into explainable retention decisions via SHAP.
+<div align="center">
+
+[![Repo](https://img.shields.io/badge/GitHub-InstructoPlus-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/Piyush6046/InstructoPlus)
+[![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://reactjs.org)
+[![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=google&logoColor=white)](https://ai.google.dev)
+[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)](https://mongodb.com)
+[![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=flat-square&logo=razorpay&logoColor=3395FF)](https://razorpay.com)
+[![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)](https://vercel.com)
+
+</div>
+
+A MERN LMS where educators import YouTube playlists as course content and Gemini generates lecture notes on demand. The challenge was combining AI content generation, server-side payment verification, and progress persistence in one coherent system.
+
+<details>
+<summary><b>🤖 AI Content Pipeline</b></summary>
+
+<br/>
 
 ```mermaid
 flowchart LR
-    A["React + Vite"] -->|Axios| B["Node.js + Express"]
-    B -->|Mongo Driver| C[("MongoDB")]
-    B -->|Axios| D["Python FastAPI"]
-    D --> E["Logistic Regression"]
-    D --> F["Random Forest"]
-    D --> G["XGBoost"]
-    F -->|Prediction| H["SHAP Explainer"]
-    G -->|Prediction| H
-    H --> I["Business Insights"]
+    A([🎬 YouTube Playlist]) --> B[Lecture Import]
+    B --> C[Content Extraction]
+    C --> D{Gemini LLM}
+    D -->|Generate| E[📝 AI Lecture Notes]
+    D -->|Answer Q&A| F[🤖 AI Tutor]
+    E --> G[(MongoDB Cache)]
+    G -->|Cached hit| H([Student View])
+    F --> H
 
-    style D fill:#1a1a2e,color:#f472b6,stroke:#f472b6
-    style F fill:#16213e,color:#f59e0b,stroke:#f59e0b
-    style H fill:#0f3460,color:#34d399,stroke:#34d399
+    style A fill:#1a0d00,color:#fb923c,stroke:#f97316
+    style D fill:#0d1a2e,color:#60a5fa,stroke:#3b82f6
+    style E fill:#0d1a0d,color:#4ade80,stroke:#22c55e
+    style F fill:#1a0d1a,color:#c084fc,stroke:#a855f7
+    style G fill:#0a1a2d,color:#60a5fa,stroke:#3b82f6
 ```
 
-**Model leaderboard**
+</details>
 
-| Model | ROC-AUC | F1 | Precision | Recall |
-|---|---|---|---|---|
-| Random Forest (deployed) | **0.85** | **0.65** | **0.56** | **0.78** |
-| Logistic Regression | 0.86 | 0.64 | 0.52 | 0.84 |
-| XGBoost | 0.85 | 0.63 | 0.55 | 0.75 |
+<details>
+<summary><b>💳 Payment Verification Flow</b></summary>
 
-**Explainable AI** — instead of just `Churn = 82%`, the system answers *why*:
+<br/>
 
+```mermaid
+sequenceDiagram
+    participant C as Client
+    participant B as Backend
+    participant R as Razorpay
+
+    C->>B: Create Order Request
+    B->>R: Initialize Order
+    R-->>B: Order ID
+    B-->>C: Order ID
+    C->>R: Payment (Card/UPI)
+    R-->>C: Payment + Signature
+    C->>B: Signature Verification Request
+    B->>B: HMAC-SHA256 Verify
+    B-->>C: ✅ Course Unlocked
 ```
-Contract Duration    ─────────────────►  HIGH RISK   (+++)
-Monthly Charges      ──────────────►    RISK         (++)
-Tenure                ◄────────────      PROTECTION   (--)
-Support Services      ◄───────────       PROTECTION   (--)
-```
 
-<div align="center">
-<img src="https://img.shields.io/badge/SHAP-Explainability-f472b6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Microservices-FastAPI-009688?style=for-the-badge&logo=fastapi"/>
-<img src="https://img.shields.io/badge/ML_Ensemble-XGB+RF+LR-f59e0b?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LLM-Groq-1f2937?style=for-the-badge"/>
-</div>
+> Server-side verification — the backend validates the HMAC signature before granting course access. Client trust is never assumed.
 
-**Repo:** [TeleRetain](https://github.com/Piyush6046/TeleRetain)
+</details>
+
+<details>
+<summary><b>📦 Data Design</b></summary>
+
+<br/>
+
+Course progress uses a compound uniqueness constraint on `(userId, courseId)` — preventing duplicate progress documents while enabling efficient per-student queries at any scale.
+
+</details>
+
+**Deployment:** `Vercel` (frontend) · `Render` (backend) · `MongoDB Atlas`
+
+**Stack:** `React` · `Node.js` · `Express` · `MongoDB` · `Google Gemini` · `JWT` · `Cloudinary` · `Razorpay`
 
 ---
 
-### 04 — TradePlus AI | Intelligent Trade Matchmaking
+### `03` · TeleRetain — Churn Prediction & Retention Platform
 
-> **Intelligent Import–Export Matchmaking** — an ML pipeline generating 23,815 exporter–importer pairs, engineering 34 features, and producing explainable match scores with XGBoost + SHAP. Built at LOC Hackathon (top 5 of ~30 teams, team of four, two-day build).
+<div align="center">
+
+[![Repo](https://img.shields.io/badge/GitHub-TeleRetain-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/Piyush6046/TeleRetain)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
+[![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)](https://fastapi.tiangolo.com)
+[![Node](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square)
+![SHAP](https://img.shields.io/badge/SHAP-Explainability-6e40c9?style=flat-square)
+
+</div>
+
+A monorepo platform putting ML into a backend context — not just training a model, but building a system where predictions flow from model to dashboard to actionable business decisions.
+
+<details>
+<summary><b>🏗️ Monorepo Service Architecture</b></summary>
+
+<br/>
 
 ```mermaid
 flowchart TD
-    A["Raw CSV Data"] --> B["Pair Generation<br/>23,815 pairs"]
-    B --> C["Feature Engineering<br/>34 features"]
-    C --> D{"Model Training"}
-    D --> E["XGBoost (best)"]
-    D --> F["LightGBM"]
-    D --> G["Random Forest"]
-    D --> H["Logistic Regression"]
-    E --> I["SHAP Explainability"]
-    I --> J["Match + Reason"]
+    A([⚛️ React Frontend]) --> B[Node.js / Express API\n/backend]
+    B --> C[(MongoDB\nCustomer Data)]
+    B -->|ML Request| D[Python FastAPI\n/ml-service]
+    D --> E{Model Selection}
+    E --> F[Logistic Regression]
+    E --> G[🌲 Random Forest ⭐ Default]
+    E --> H[⚡ XGBoost]
+    G --> I[SHAP Explainer]
+    I --> J([💡 Prediction + Business Reason])
 
-    style E fill:#1e3a5f,color:#60a5fa,stroke:#60a5fa
-    style I fill:#1e1b4b,color:#a78bfa,stroke:#a78bfa
-    style J fill:#065f46,color:#34d399,stroke:#34d399
+    style A fill:#0d1a2e,color:#60a5fa,stroke:#3b82f6
+    style B fill:#0d2d1a,color:#34d399,stroke:#10b981
+    style D fill:#1a0d00,color:#fb923c,stroke:#f97316
+    style G fill:#0d2d1a,color:#34d399,stroke:#10b981
+    style I fill:#1a0a2e,color:#a78bfa,stroke:#6e40c9
+    style J fill:#0d1a0d,color:#4ade80,stroke:#22c55e
 ```
 
-**Best model — XGBoost**
+</details>
 
-```
-ROC-AUC       →  0.9802
-Accuracy      →  97.63%
-Precision     →  97.96%
-Recall        →  99.55%
-F1 Score      →  0.9875
-5-Fold AUC    →  0.9755 ± 0.0047
-```
+<details>
+<summary><b>📊 Model Comparison</b></summary>
 
-**Feature engineering covers:** capacity ratio, geographic alignment, trade corridors, logistics compatibility, regulatory alignment, payment terms, hiring signals, tariff exposure, geopolitical and war risk.
+<br/>
 
-**Architecture:** `React → Node.js API → Feature Builder → Python Flask ML → XGBoost + SHAP → Match + Explanation`
+| Model | ROC-AUC | F1 | Note |
+|---|---|---|---|
+| Logistic Regression | 0.86 | 0.64 | Baseline |
+| **Random Forest** ⭐ | **0.85** | **0.65** | **Default · Best F1** |
+| XGBoost | 0.85 | 0.63 | Alternative |
 
-<div align="center">
-<img src="https://img.shields.io/badge/XGBoost-0.9802_AUC-f59e0b?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/34_Features-Engineered-60a5fa?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SHAP-Explained-a78bfa?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/23815_Pairs-Generated-34d399?style=for-the-badge"/>
-</div>
+The ML service returns a SHAP-based explanation alongside each prediction — so the business understands *why* a customer is at risk, not just that they are.
 
-**Repo:** [tradeplus-ai](https://github.com/Piyush6046/tradeplus-ai)
+</details>
+
+**Stack:** `React` · `Node.js` · `Express` · `MongoDB` · `Python` · `FastAPI` · `XGBoost` · `Scikit-learn` · `SHAP`
 
 ---
 
-### 05 — VAPT | Web Application Security
+### `04` · TradePlus AI — Intelligent B2B Trade Matchmaking
 
-> **Vulnerability Assessment & Penetration Testing** — looking at applications not just as *"how do I build it?"* but *"how can this system fail, and how do I protect it?"*
+<div align="center">
 
-| Domain | Focus Area |
+[![Repo](https://img.shields.io/badge/GitHub-tradeplus--ai-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/Piyush6046/tradeplus-ai)
+[![Hackathon](https://img.shields.io/badge/🏆_Hackathon_Project-6e40c9?style=flat-square)](https://github.com/Piyush6046/tradeplus-ai)
+[![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://reactjs.org)
+[![Gemini](https://img.shields.io/badge/Gemini_2.0_Flash-4285F4?style=flat-square&logo=google&logoColor=white)](https://ai.google.dev)
+[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)](https://mongodb.com)
+
+</div>
+
+A full-stack B2B trade matchmaking platform where the core intelligence is **TradeCupid** — a custom 9-dimensional weighted scoring engine (prototyped in Python, implemented in Node.js) that ranks trade opportunities across a dataset of 5,000+ importers/exporters.
+
+<details>
+<summary><b>⚙️ TradeCupid Matching Engine</b></summary>
+
+<br/>
+
+```mermaid
+flowchart TD
+    A([📂 CSV Trade Dataset\n5,000+ leads]) --> B[Data Hydration]
+    B --> C{TradeCupid Engine}
+
+    C --> D1[Demand Fit]
+    C --> D2[Geo-Fit]
+    C --> D3[Behavioral Fit]
+    C --> D4[Reliability]
+    C --> D5[Scale Fit]
+    C --> D6[Safety / Risk]
+    C --> D7[Industry Compatibility]
+    C --> D8[Trade Corridors]
+    C --> D9[Firmographic Signals]
+
+    D1 & D2 & D3 & D4 & D5 & D6 & D7 & D8 & D9 --> E[Weighted Match Score\n0 – 100]
+    E --> F[Ranked Trade Opportunities]
+    F --> G{Gemini 2.0 Flash}
+    G -->|Reasoning| H[AI Match Explanation]
+    G -->|Generate| I[Partner SWOT Analysis]
+    G -->|Compose| J[Autonomous Outreach Message]
+    H & I & J --> K([🎯 Match Hunter Dashboard])
+
+    style A fill:#0a1a2d,color:#60a5fa,stroke:#3b82f6
+    style C fill:#1a0a2e,color:#a78bfa,stroke:#6e40c9
+    style E fill:#1a1a0d,color:#fbbf24,stroke:#f59e0b
+    style G fill:#0d1a0d,color:#4ade80,stroke:#22c55e
+    style K fill:#1a0d00,color:#fb923c,stroke:#f97316
+```
+
+</details>
+
+<details>
+<summary><b>🌐 Platform Features</b></summary>
+
+<br/>
+
+| Feature | Description |
 |---|---|
-| Authentication | Access control, session management |
-| Authorization | Privilege escalation, role violations |
-| Injection | SQLi, XSS, command injection |
-| Input Validation | Boundary conditions, type coercion |
-| HMAC / Signature | Cryptographic verification |
+| 🎯 Match Hunter | Discovery dashboard with ranked trade opportunities |
+| ⚙️ TradeCupid Engine | Custom 9-dimensional weighted scoring |
+| 🧠 AI Reasoning | Gemini-powered match explanations + partner insights |
+| 🔬 Algorithm Lab | Interactive visualization of scoring vectors and AI reasoning |
+| 📩 Autonomous Outreach | AI-generated first-contact messages on interest expressed |
+| 📅 Trade Calendar | Scheduling and interaction tracking |
+| 🎥 Video Conferencing | Jitsi-based in-platform video calls |
+| 💬 AI Chatbot | Trade-related AI assistant |
 
-**Repo:** [VAPT](https://github.com/Piyush6046/VAPT)
+</details>
+
+**What makes it interesting:** The scoring is transparent and inspectable — the Algorithm Lab UI shows exactly which signals drove a match score and why. Intelligence without the black box.
+
+**Stack:** `React` · `Node.js` · `Express` · `MongoDB` · `Gemini 2.0 Flash` · `Framer Motion` · `Python` (prototype) · `Jitsi`
 
 ---
 
-### 06 — Digital Heroes | Golf Charity Platform
-
-> **Subscription + Golf Scores + Monthly Draw + Charity + Admin** — a full-stack product specification for a charity lottery system with golf-handicap logic.
-
-```mermaid
-flowchart LR
-    A["Subscriber"] --> B["Enter Last 5 Scores"]
-    B --> C["Monthly Draw"]
-    C -->|3-Number Match| D["25% of Pool"]
-    C -->|4-Number Match| E["35% of Pool"]
-    C -->|5-Number Match| F["40% of Pool — Jackpot"]
-    F -->|Unclaimed| G["Rollover"]
-
-    style F fill:#1c1917,color:#f59e0b,stroke:#f59e0b
-    style G fill:#1c1917,color:#ef4444,stroke:#ef4444
-```
-
-**Admin capabilities:** users, subscriptions, draw configuration, draw simulation, charity management, winner verification, payouts, analytics.
-
-<br/>
-
-## Other Builds
+### `05` · VAPT — Web Application Vulnerability Scanner
 
 <div align="center">
 
-| Project | Focus | Stack |
-|---|---|---|
-| **Quiz App** | Interactive quiz platform | HTML / CSS / JS |
-| **VJTI Books** | Student book platform | JavaScript |
-| **Movie Management** | Movie/show booking & billing | MySQL |
-| **Online Library** | Library management system | Web |
-| **SGPA Calculator** | Academic grade predictor | TypeScript |
-| **Image Denoising** | Image processing / ML | Python |
-| **GameZone** | Browser gaming platform | HTML |
-| **Portfolio** | Personal portfolio site | HTML / CSS |
+[![Repo](https://img.shields.io/badge/GitHub-VAPT-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/Piyush6046/VAPT)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)](https://typescriptlang.org)
+![Security](https://img.shields.io/badge/Security-Scanning-ef4444?style=flat-square)
+![VAPT](https://img.shields.io/badge/VAPT-Full_Stack-6e40c9?style=flat-square)
+
+</div>
+
+A full-stack vulnerability assessment tool — frontend dashboard + backend scanning system — that scans live target URLs for web application vulnerabilities including SQL injection and XSS.
+
+<details>
+<summary><b>🛡️ Scanning Architecture</b></summary>
+
+<br/>
+
+```mermaid
+flowchart TD
+    A([🌐 Target URL Input]) --> B[Backend Scanner]
+    B --> C{Probe Dispatch}
+    C --> D[💉 SQL Injection\nProbes]
+    C --> E[🔀 XSS Detection\nProbes]
+    D --> F[Response Analysis]
+    E --> F
+    F --> G[Vulnerability Classification]
+    G --> H[Risk Assessment]
+    H --> I([📊 Frontend Dashboard\nFindings · Severity · Report])
+
+    style A fill:#1a0a0a,color:#f87171,stroke:#ef4444
+    style B fill:#1a0d00,color:#fb923c,stroke:#f97316
+    style C fill:#1a1a0d,color:#fbbf24,stroke:#f59e0b
+    style D fill:#1a0a0a,color:#f87171,stroke:#ef4444
+    style E fill:#1a0a0a,color:#f87171,stroke:#ef4444
+    style I fill:#0d1a0d,color:#4ade80,stroke:#22c55e
+```
+
+</details>
+
+This project represents a different engineering axis — thinking about systems adversarially: not just *"does this work?"* but *"how can this break, and what does that expose?"*
+
+**Stack:** `TypeScript` · `Full-stack frontend + backend scanning system`
+
+---
+
+## AI / GenAI
+
+<div align="center">
+
+### Built & Shipped
+
+| Capability | Project |
+|---|---|
+| LLM integration — Gemini 2.0 Flash, GPT-4o-mini | TradePlus · InstructoPlus · UniBuddy |
+| Voice AI — Vapi.ai + WebRTC voice sessions | UniBuddy AI Interviewer |
+| Resume parsing — Affinda | UniBuddy |
+| RAG-lite (context-injected LLM Q&A) | InstructoPlus AI Tutor |
+| Webhook-driven async AI workflows | UniBuddy post-call processing |
+| Autonomous AI output — outreach, SWOT, insights | TradePlus AI |
+| Custom ranking / scoring engine | TradePlus TradeCupid |
+| Explainable ML — SHAP feature importance | TeleRetain |
+| AI content caching — no redundant LLM calls | InstructoPlus |
+
+### Exploring
+
+`Advanced RAG` · `Chunking + Embeddings + Vector Search` · `Agentic AI` · `Tool-calling` · `LangChain` · `MLOps` · `Model deployment`
+
+</div>
+
+---
+
+## Tech Stack
+
+<div align="center">
+
+### Languages
+<img src="https://skillicons.dev/icons?i=ts,js,python,cpp,html,css&theme=dark"/>
+
+### Frontend
+<img src="https://skillicons.dev/icons?i=react,tailwind,redux,vite&theme=dark"/>
+
+### Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask&theme=dark"/>
+
+### Databases & Cloud
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,vercel,netlify&theme=dark"/>
+
+### Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark"/>
 
 </div>
 
 <br/>
 
-## Engineering Principles
+<div align="center">
 
-| Principle | Description |
-|:---|---|
-| **Problem First** | *What is the problem?* always precedes *what technology should I use?* |
-| **Separation of Concerns** | Frontend ↔ API Layer ↔ Business Logic ↔ Database ↔ AI/ML Services |
-| **Explainable AI** | `Prediction + Reason + Evidence` beats `Prediction only` |
-| **Beyond the Happy Path** | Auth failures, payment verification, API fallbacks, model failures, scale |
-| **Data-Driven Design** | Schema, indexing, and compound constraints are first-class decisions |
-| **Build for Scale** | Every design decision considers what happens when the system grows |
+| Layer | Technologies |
+|---|---|
+| AI / GenAI | `Gemini 2.0 Flash` · `GPT-4o-mini` · `Vapi.ai` · `Affinda` |
+| ML / Data | `XGBoost` · `Scikit-learn` · `SHAP` · `Pandas` |
+| Auth & Payments | `JWT` · `httpOnly Cookies` · `Razorpay` · `HMAC-SHA256` |
+| Media & Infra | `Cloudinary` · `Render` · `MongoDB Atlas` · `Jitsi` |
 
-```text
-IDEA → PROBLEM → REQUIREMENTS → ARCHITECTURE → [FRONTEND · BACKEND · DATA/AI] → TEST → DEPLOY → SCALE
+</div>
+
+---
+
+## How I Build
+
+```
+Understand the problem
+       │
+       ▼
+Design the simplest architecture that handles growth
+       │
+       ▼
+Build modularly — services stay independently understandable
+       │
+       ▼
+Think about failure cases alongside the happy path
+       │
+       ▼
+Security and auth are decisions, not afterthoughts
+       │
+       ▼
+Make AI outputs interpretable, not just impressive
 ```
 
-<br/>
+What this looks like in practice: server-side payment HMAC verification (not client trust), compound DB indexes for correctness guarantees, async webhook processing for AI pipelines, SHAP explanations so ML predictions are business-actionable, a transparent Algorithm Lab so a matching engine isn't a black box.
 
-## Developer Journey
+---
 
-```mermaid
-timeline
-    title Piyush Badode — Engineering Timeline
-    2023 : Started engineering journey
-         : Foundations of CS
-    2024 : Web development
-         : JavaScript & React
-         : SQL & DSA
-         : Core engineering
-    2025 : MERN stack mastery
-         : Machine learning
-         : Image processing
-         : Full-stack production projects
-    2026 : AI applications & RAG
-         : Voice AI (Vapi.ai)
-         : Microservices architecture
-         : Explainable ML (SHAP)
-         : System design
-    Next : Distributed systems
-         : Advanced AI systems
-         : Cloud architecture
-         : Building at scale
-```
-
-<br/>
-
-## GitHub Analytics
+## Currently Exploring
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Piyush6046&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&border_radius=10"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyush6046&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&border_radius=10"/>
+```
+┌────────────────────────────────────────────────────┐
+│  ACTIVE LEARNING                    /workbench     │
+├────────────────────────────────────────────────────┤
+│                                                    │
+│  Advanced RAG     →  embeddings · retrieval        │
+│  Agentic AI       →  tool-calling · planning       │
+│  System Design    →  consistency · scale           │
+│  MLOps            →  model versioning · drift      │
+│  Redis            →  caching · pub/sub             │
+│  Docker / K8s     →  containerization              │
+│                                                    │
+│  ⚠  None of these are production experience.      │
+│     This is what's on the workbench.              │
+│                                                    │
+└────────────────────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Piyush6046&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&title_color=a78bfa&icon_color=a78bfa&text_color=e6edf3&bg_color=0d1117"/>
+&nbsp;
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyush6046&layout=compact&theme=github_dark&hide_border=true&title_color=a78bfa&text_color=e6edf3&bg_color=0d1117&langs_count=6"/>
 
 <br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=Piyush6046&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=f59e0b&currStreakLabel=a78bfa&border_radius=10"/>
+<img width="65%" src="https://streak-stats.demolab.com?user=Piyush6046&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=6e40c9&ring=6e40c9&fire=f59e0b&currStreakLabel=a78bfa&sideNums=a78bfa&sideLabels=6b7280"/>
 
 <br/><br/>
 
-<img width="90%" src="https://github-profile-trophy.vercel.app/?username=Piyush6046&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Piyush6046&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7"/>
 
 </div>
 
 <br/>
-
-## Contribution Activity
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Piyush6046/Piyush6046/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Piyush6046/Piyush6046/output/github-contribution-grid-snake.svg"/>
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Piyush6046/Piyush6046/output/github-contribution-grid-snake.svg"/>
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Piyush6046/Piyush6046/output/github-contribution-grid-snake.svg"/>
 </picture>
 
 </div>
 
-<br/>
+---
 
-## Currently Exploring
+## Engineering Log
 
 <div align="center">
 
-| Area | Focus |
-|:---|:---|
-| Advanced RAG | Building smarter retrieval systems |
-| Agentic AI | Multi-step autonomous LLM agents |
-| Distributed Systems | CAP theorem, consistency patterns |
-| Redis & Caching | Pub/sub, sessions, rate limiting |
-| Cloud Architecture | IaC, serverless, edge computing |
-| App Security | Threat modeling, secure SDLC |
-| MLOps | Model versioning, drift detection |
-| Docker & Kubernetes | Container orchestration at scale |
+```
+┌────────────────────────────────────────────────────────┐
+│  PIYUSH BADODE · ENGINEERING LOG            v2026      │
+├────────────────────────────────────────────────────────┤
+│                                                        │
+│  SYSTEMS BUILT    →  full-stack · AI · ML · security  │
+│  CURRENTLY        →  agentic AI · RAG · system design  │
+│  CORE INTEREST    →  intelligent systems at scale      │
+│  INSTITUTION      →  VJTI Mumbai · IT Dept.           │
+│                                                        │
+│  This GitHub is a working record, not a showcase.     │
+│  Projects are implementations, not tutorials.         │
+│                                                        │
+└────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+## Connect
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-Piyush6046-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Piyush6046)
+&nbsp;
+[![UniBuddy](https://img.shields.io/badge/🌐_UniBuddy_Live-10b981?style=for-the-badge)](https://unibuddy-frontend.netlify.app/home)
+
+<br/>
+
+<sub>VJTI Mumbai · Information Technology · Building at the intersection of software engineering and AI</sub>
 
 </div>
 
 <br/>
 
-## Featured Repositories
-
-<div align="center">
-
-<a href="https://github.com/Piyush6046/UniBuddy-Deployment">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Piyush6046&repo=UniBuddy-Deployment&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&border_radius=10"/>
-</a>
-<a href="https://github.com/Piyush6046/InstructoPlus">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Piyush6046&repo=InstructoPlus&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&border_radius=10"/>
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/Piyush6046/TeleRetain">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Piyush6046&repo=TeleRetain&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=f472b6&icon_color=f472b6&border_radius=10"/>
-</a>
-<a href="https://github.com/Piyush6046/tradeplus-ai">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Piyush6046&repo=tradeplus-ai&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=60a5fa&icon_color=60a5fa&border_radius=10"/>
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/Piyush6046/VAPT">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Piyush6046&repo=VAPT&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ef4444&icon_color=ef4444&border_radius=10"/>
-</a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-## Let's Connect
-
-<a href="https://github.com/Piyush6046">
-  <img src="https://img.shields.io/badge/GitHub-Piyush6046-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
-</a>
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Code+%E2%86%92+Build+%E2%86%92+Break+%E2%86%92+Learn+%E2%86%92+Improve+%E2%86%92+Repeat;Build+for+the+problem%2C+not+for+the+technology." alt="Footer typing"/>
-
-<br/>
-
-**Thanks for visiting — if something here resonated, leave a star on a repo that helped you.**
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=110&section=footer"/>
-
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,50:2d1b69,100:0d1117&height=100&section=footer&animation=twinkling"/>
