@@ -122,6 +122,7 @@ flowchart TD
 </details>
 
 **Engineering decisions worth noting:**
+
 - Webhook-driven post-call processing — interview is async, evaluation fires server-side after Vapi callback
 - Score persistence in MongoDB — not ephemeral, full interview history available
 - Resume parsing fully decoupled from interview session
@@ -428,18 +429,23 @@ This project represents a different engineering axis — thinking about systems 
 <div align="center">
 
 ### Languages
+
 <img src="https://skillicons.dev/icons?i=ts,js,python,cpp,html,css&theme=dark"/>
 
 ### Frontend
+
 <img src="https://skillicons.dev/icons?i=react,tailwind,redux,vite&theme=dark"/>
 
 ### Backend
+
 <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask&theme=dark"/>
 
 ### Databases & Cloud
+
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,vercel,netlify&theme=dark"/>
 
 ### Tools
+
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark"/>
 
 </div>
@@ -457,33 +463,7 @@ This project represents a different engineering axis — thinking about systems 
 
 </div>
 
----
-
-## Currently Exploring
-
-<div align="center">
-
-```
-┌────────────────────────────────────────────────────┐
-│  ACTIVE LEARNING                    /workbench     │
-├────────────────────────────────────────────────────┤
-│                                                    │
-│  Advanced RAG     →  embeddings · retrieval        │
-│  Agentic AI       →  tool-calling · planning       │
-│  System Design    →  consistency · scale           │
-│  MLOps            →  model versioning · drift      │
-│  Redis            →  caching · pub/sub             │
-│  Docker / K8s     →  containerization              │
-│                                                    │
-│  ⚠  None of these are production experience.      │
-│     This is what's on the workbench.              │
-│                                                    │
-└────────────────────────────────────────────────────┘
-```
-
 </div>
-
----
 
 ## GitHub Activity
 
@@ -535,30 +515,6 @@ This project represents a different engineering axis — thinking about systems 
 
 ---
 
-## Engineering Log
-
-<div align="center">
-
-```
-┌────────────────────────────────────────────────────────┐
-│  PIYUSH BADODE · ENGINEERING LOG            v2026      │
-├────────────────────────────────────────────────────────┤
-│                                                        │
-│  SYSTEMS BUILT    →  full-stack · AI · ML · security  │
-│  CURRENTLY        →  agentic AI · RAG · system design  │
-│  CORE INTEREST    →  intelligent systems at scale      │
-│  INSTITUTION      →  VJTI Mumbai · IT Dept.           │
-│                                                        │
-│  This GitHub is a working record, not a showcase.     │
-│  Projects are implementations, not tutorials.         │
-│                                                        │
-└────────────────────────────────────────────────────────┘
-```
-
-</div>
-
----
-
 ## Connect
 
 <div align="center">
@@ -571,7 +527,6 @@ This project represents a different engineering axis — thinking about systems 
 &nbsp;
 [![Email](https://img.shields.io/badge/Email-badodepiyush@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:badodepiyush@gmail.com)
 &nbsp;
-[![UniBuddy](https://img.shields.io/badge/🌐_UniBuddy_Live-10b981?style=for-the-badge)](https://unibuddy-frontend.netlify.app/home)
 
 <br/>
 
