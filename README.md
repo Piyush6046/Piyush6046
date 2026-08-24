@@ -55,22 +55,6 @@ const piyush = {
 
 ## Featured Systems
 
-<div align="center">
-
-```
-         PIYUSH BADODE
-               │
-    ┌──────────┼──────────┐
-    │          │          │
-Full-Stack    AI/ML   Security
-    │          │
-    ├─UniBuddy ├─TradePlus AI
-    ├─InstructoPlus └─TeleRetain
-    └─VAPT
-```
-
-</div>
-
 ---
 
 ### `01` · UniBuddy — AI-Powered Student Ecosystem
